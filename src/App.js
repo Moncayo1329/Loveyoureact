@@ -18,7 +18,7 @@ function App() {
        <li>Powers thousand of enterprise apps, incluiding mobile apps</li>
         </ol>
         <footer>
-     <small>@ 2011 Mike  development. All rights reserved</small>
+     <small>@ 2024 Mike  development. All rights reserved</small>
        
         </footer>
      
